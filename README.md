@@ -52,7 +52,10 @@ I'm passionate about **AI, ML, Cloud, and Blockchain**, and I believe in sharing
   <img src="https://img.shields.io/badge/Innovators%20Intermediate%20AI%20Quest-F4B400?style=for-the-badge&logo=google&logoColor=black" alt="Intermediate AI Skills Quest"/>
   <br/><br/>
   <a href="https://g.dev/hernando_ivan_teddy">
-    <img src="https://img.shields.io/badge/View%20All%2025%20Badges-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="All Badges"/>
+    <img src="https://img.shields.io/badge/View%20All%2025%20Badges-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="All 25Badges"/>
+  </a>
+   <a href="https://www.skills.google/public_profiles/b3fd0279-e58a-4089-89fc-b39532a8c44f">
+    <img src="https://img.shields.io/badge/View%20All%2058%20Badges-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="All 58 Badges"/>
   </a>
 </div>
 
