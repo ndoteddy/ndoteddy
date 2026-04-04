@@ -26,7 +26,7 @@
 
 I actively research develop and ship distributed systems at scale. My work spans multi-cloud infrastructure, AI/ML integration, and platform engineering — with a focus on systems that are operationally sound, not just technically impressive.
 
-Currently working as a **Squad Leader and Senior Software Engineer** in one of global company with hands-on ownership of GCP, Azure, AWS and a track toward Principal-level engineering and solutions architect in distributed systems and cloud infrastructure.
+Currently working as part of development team  in one of global company with hands-on ownership of GCP, Azure, AWS and a track toward Principal-level engineering and solutions architect in distributed systems and cloud infrastructure.
 
 ---
 
