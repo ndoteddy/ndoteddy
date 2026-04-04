@@ -1,127 +1,105 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=35&duration=3000&color=4285F4&center=true&vCenter=true&width=700&lines=Hey,+I'm+Hernando+👋;AI+Apprentice+%7C+Cloud+Innovator;Google+Cloud+Innovator;Gemini+Enterprise+Agent+Ready;Grind.+Study.+Live+the+Dream." alt="Typing SVG"/>
+
+# Hernando Ivan Teddy
+
+**Principal Engineer · Senior Engineer · RnD · System Design**
+
+*Over decade ~`~15 years designing distributed systems and cloud-native architecture across GCP, AWS, and Azure*
+
 </div>
 
+---
+
 <div align="center">
-  <em>"Grind while they rest, study while they party, and you'll live like they dream."</em>
+
+[![Google Developer](https://img.shields.io/badge/Google%20Developer%20Profile-4285F4?style=flat-square&logo=google&logoColor=white)](https://g.dev/hernando_ivan_teddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hernandoivanteddy)
+[![GitHub](https://img.shields.io/badge/GitHub-ndoteddy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ndoteddy)
+[![Links](https://img.shields.io/badge/All%20Links-FF5722?style=flat-square&logo=linktree&logoColor=white)](https://bit.ly/4is3xDm)
+![Profile Views](https://komarev.com/ghpvc/?username=ndoteddy&style=flat-square&color=4285F4)
+
 </div>
+
+---
+
+## About
+
+I actively research develop and ship distributed systems at scale. My work spans multi-cloud infrastructure, AI/ML integration, and platform engineering — with a focus on systems that are operationally sound, not just technically impressive.
+
+Currently working as a **Squad Leader and Senior Software Engineer** in one of global company with hands-on ownership of GCP, Azure, AWS and a track toward Principal-level engineering and solutions architect in distributed systems and cloud infrastructure.
+
+---
+
+## Credentials
+
+| Domain | Credential |
+|---|---|
+| **Cloud** | AWS Solutions Architect · Google Cloud Innovator · Azure (AZ-104 track) |
+| **AI / ML** | Gemini Enterprise Agent Ready · Innovators Advanced AI Quest · Google Cloud × NVIDIA Member |
+| **Community** | Google Cloud Speaker · GDG Speaker · 25 Google Developer Badges · 58 Skill Boost Badges (Diamond) |
+| **Enterprise** | SAP Dashboard Champion 2012 — Business Intelligence / BusinessObjects / Xcelsius |
+
+---
+
+## Technical Focus
+
+**Cloud Infrastructure**
+`Google Cloud Platform` `Amazon Web Services` `Microsoft Azure` `Terraform` `Distributed Systems`
+
+**AI & Machine Learning**
+`Vertex AI` `Gemini` `TensorFlow` `LLM Integration` `Agent Frameworks`
+
+**Platform Engineering**
+`Azure App Configuration` `Azure Key Vault` `Entra ID` `App Registrations` `CI/CD`
+
+**Languages & Runtimes**
+`TypeScript` `Node.js` `Java` `Python` `Angular`
+
+---
+
+## Principles
+
+> Well-designed systems are invisible. They handle failure gracefully, scale without drama, and make the engineers who maintain them effective.
+
+I believe in **operational clarity over architectural complexity** — the best system is one your team can understand at 2am during an incident.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndoteddy&theme=github_dark" alt="Contribution Overview" width="100%"/>
 
 <br/>
 
-<div align="center">
-  <a href="https://g.dev/hernando_ivan_teddy">
-    <img src="https://img.shields.io/badge/Google%20Dev%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile"/>
-  </a>
-  <a href="https://linkedin.com/in/hernandoivanteddy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ndoteddy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://bit.ly/4is3xDm">
-    <img src="https://img.shields.io/badge/My%20Links-FF5722?style=for-the-badge&logo=linktree&logoColor=white" alt="Links"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ndoteddy&style=for-the-badge&color=4285F4" alt="Profile views"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndoteddy&theme=dark&hide_border=true" alt="Contribution Streak" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndoteddy&theme=github_dark" alt="Languages" width="49%"/>
+
 </div>
 
 ---
 
-## 🚀 About Me
-
-I'm **Hernando Ivan Teddy** an **AI Apprentice on the journey to become a World-Class Expert** with a decade of established experience in tech.
-I'm passionate about **AI, ML, Cloud, and Blockchain**, and I believe in sharing knowledge through community and speaking engagements.
-
-- 🔍 Exploring **AI, ML, and Blockchain**
-- 🎤 **Google Cloud Speaker** & **Google Developer Group (GDG) Speaker**
-- 🏆 **Google Cloud Innovator** & **Google Innovator**
-- ☁️ **AWS Solutions Architect**
-- 📊 **SAP Dashboard Champion 2012** : Business Intelligence / Business Objects / SAP Xcelsius
-- 🤖 Established in distributed computing and cloud computing technology within GCP,Azure,AWS
-- 🎖️ **25 Google Developer Badges earned**
-- 🎖️ **58 Google Skill Boost Badges : Diamond League**
-
----
-
-## 🏅 Google Developer Badges
+## Recognition
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Gemini%20Enterprise%20Agent%20Ready-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Enterprise Agent Ready"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud%20%26%20NVIDIA%20Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Google Cloud & NVIDIA"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Innovator-DB4437?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Innovator"/>
-  <img src="https://img.shields.io/badge/Innovators%20Advanced%20AI%20Quest-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="Advanced AI Skills Quest"/>
-  <img src="https://img.shields.io/badge/Innovators%20Intermediate%20AI%20Quest-F4B400?style=for-the-badge&logo=google&logoColor=black" alt="Intermediate AI Skills Quest"/>
-  <br/><br/>
-  <a href="https://g.dev/hernando_ivan_teddy">
-    <img src="https://img.shields.io/badge/View%20All%2025%20Badges-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="All 25Badges"/>
-  </a>
-   <a href="https://www.skills.google/public_profiles/b3fd0279-e58a-4089-89fc-b39532a8c44f">
-    <img src="https://img.shields.io/badge/View%20All%2058%20Badges-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="All 58 Badges"/>
-  </a>
+
+[![Google Cloud Innovator](https://img.shields.io/badge/Google%20Cloud%20Innovator-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://g.dev/hernando_ivan_teddy)
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://g.dev/hernando_ivan_teddy)
+[![Gemini Enterprise Agent Ready](https://img.shields.io/badge/Gemini%20Enterprise%20Agent%20Ready-8E24AA?style=flat-square&logo=google&logoColor=white)](https://g.dev/hernando_ivan_teddy)
+[![GDG Speaker](https://img.shields.io/badge/GDG%20Speaker-0F9D58?style=flat-square&logo=google&logoColor=white)](https://g.dev/hernando_ivan_teddy)
+[![Google Cloud × NVIDIA](https://img.shields.io/badge/Google%20Cloud%20×%20NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://g.dev/hernando_ivan_teddy)
+[![Diamond League](https://img.shields.io/badge/Skill%20Boost%20Diamond%20League-F4B400?style=flat-square&logo=google&logoColor=black)](https://www.skills.google/public_profiles/b3fd0279-e58a-4089-89fc-b39532a8c44f)
+
+<br/><br/>
+
+[![View 25 Developer Badges](https://img.shields.io/badge/25%20Google%20Developer%20Badges%20→-4285F4?style=flat-square&logo=google&logoColor=white)](https://g.dev/hernando_ivan_teddy)
+[![View 58 Skill Boost Badges](https://img.shields.io/badge/58%20Skill%20Boost%20Badges%20→-34A853?style=flat-square&logo=google&logoColor=white)](https://www.skills.google/public_profiles/b3fd0279-e58a-4089-89fc-b39532a8c44f)
+
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Google%20Innovator-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Innovator"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Speaker-DB4437?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Speaker"/>
-  <img src="https://img.shields.io/badge/GDG%20Speaker-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="GDG Speaker"/>
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect"/>
-  <img src="https://img.shields.io/badge/SAP%20Dashboard%20Champion%202012-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Champion"/>
-</div>
-
----
-
-## ☁️ Cloud & AI Technologies
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Vertex AI"/>
-  <img src="https://img.shields.io/badge/Gemini-8E24AA?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/>
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain"/>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
-</div>
-
----
-
-## 💻 GitHub Stats
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndoteddy&theme=github_dark" alt="GitHub Stats"/></td>
-      <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=ndoteddy&theme=dark" alt="Streak Stats"/></td>
-    </tr>
-  </table>
-  <table width="100%">
-    <tr>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndoteddy&theme=github_dark" alt="Stats"/></td>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndoteddy&theme=github_dark" alt="Repos per language"/></td>
-      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndoteddy&theme=github_dark" alt="Most commit language"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://g.dev/hernando_ivan_teddy">
-    <img src="https://img.shields.io/badge/Google%20Dev%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer"/>
-  </a>
-  <a href="https://linkedin.com/in/hernandoivanteddy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ndoteddy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://bit.ly/4is3xDm">
-    <img src="https://img.shields.io/badge/My%20Links-FF5722?style=for-the-badge&logo=linktree&logoColor=white" alt="Links"/>
-  </a>
+<sub>Open to conversations on distributed systems, cloud architecture, and principal-level engineering roles.</sub>
 </div>
